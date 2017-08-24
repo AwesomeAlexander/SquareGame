@@ -1,2 +1,2 @@
 # SquareGame
-A simple square game on Python using tkinter
+A simple game on Python using tkinter
